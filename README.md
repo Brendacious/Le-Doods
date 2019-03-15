@@ -1,2 +1,2 @@
 # Le-Doods
-For apps.
+For games and apps.
